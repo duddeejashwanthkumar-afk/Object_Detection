@@ -209,3 +209,5 @@ __marimo__/
 
 node_modules/
 frontend/node_modules/
+
+*.mp4
