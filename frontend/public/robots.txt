@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/ with changes.
+# Block all crawlers for this development server
+User-agent: *
+Disallow: /
